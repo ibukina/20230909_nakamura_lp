@@ -4,8 +4,6 @@
     line-height: 20px;
 }
 
-
-
 header{
     height: 50px;
     display: flex;
@@ -26,8 +24,6 @@ header{
 .header_list-item{
     margin-right: 20px;
 }
-
-
 
 .section_heading{
     color: #B31667;
@@ -78,7 +74,6 @@ span{
     font-size: 15px;
 }
 
-
 .main_news{
     height: 400px;
     margin: 0 25%;
@@ -125,7 +120,6 @@ span{
     white-space: nowrap;
 }
 
-
 .main_about{
     height: 370px;
     background-color: #F5F5F5;
@@ -155,7 +149,6 @@ span{
 .about_img{
     width: 30%;
 }
-
 
 .main_service{
     height: 600px;
@@ -261,7 +254,6 @@ span{
     margin-left: 40%;
 }
 
-
 .main_blog{
     height: 600px;
     padding-top: 50px;
@@ -340,7 +332,6 @@ span{
     color: #A91A69;
 }
 
-
 .main_company{
     height: 500px;
     padding-top: 70px;
@@ -402,7 +393,6 @@ span{
     color: white;
 }
 
-
 .main_contact_form{
     height: 200px;
     padding-top: 80px;
@@ -449,8 +439,6 @@ footer{
     background-color: #F5F5F5;
 }
 
-
-
 @media screen and (max-width:1024px) {
 .main_blog{
     height: 1000px;
@@ -465,7 +453,6 @@ footer{
     margin: 0;
 }
 }
-
 
 @media screen and (max-width:768px) {
 *{
@@ -515,8 +502,6 @@ footer{
     font-size: 17px;
 }
 }
-
-
 
 @media screen and (max-width:425px) {
 *{
